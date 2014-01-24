@@ -1,0 +1,32 @@
+{
+  "name": "my_first_i-o",
+  "version": "0.0.0",
+  "description": "Example MY FIRST I/O!",
+  "main": "03.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "assert": "~1.1.0"
+  },
+  "devDependencies": {
+    "mocha": "~1.17.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaquindev/learning-from-nodeschool-io"
+  },
+  "keywords": [
+    "node.js",
+    "tutorial",
+    "javascript"
+  ],
+  "author": "JoaquinDev",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/joaquindev/learning-from-nodeschool-io/issues"
+  }
+}
